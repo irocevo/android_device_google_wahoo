@@ -1,5 +1,5 @@
 # Overlays
-DEVICE_PACKAGE_OVERLAYS += device/google/wahoo/overlay-lineage
+DEVICE_PACKAGE_OVERLAYS += device/google/wahoo/overlay-aicp
 
 # EUICC feature
 PRODUCT_COPY_FILES += \
